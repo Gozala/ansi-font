@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/Gozala/ansi-font.png)](http://travis-ci.org/Gozala/ansi-font)
 # ansi-font #
 
 ANSI font styling utils
